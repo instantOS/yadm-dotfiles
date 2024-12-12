@@ -2,6 +2,8 @@
 animation = "EaseOutExpo"
 duration = 0
 
+# this is a test comment
+
 [[colors.indexed_colors]]
 color = "#F5A97F"
 index = 16
